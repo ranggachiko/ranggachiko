@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rangga Ryantico</h1>
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+
+<h1 align="center">Hi 👋, I'm Rangga Ryantico <img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img></h1>
 <h3 align="center">A passionate website developer from Indonesia</h3>
 
 - 🌱 I’m currently studying at **BSI University**
