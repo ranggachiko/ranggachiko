@@ -3,9 +3,10 @@
 <h1 align="center">Hi 👋, I'm Rangga Ryantico <img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img></h1>
 <h3 align="center">A passionate website developer from Indonesia</h3>
 
-- 🌱 I’m currently studying at **BSI University**
-
+- 📚 Computer Science student at **[BSI University](https://www.bsi.ac.id/)**
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/rangga-ryantico19/)
+- 💬 Ask me about **any technology**.
+- ⚡ Fun fact: I'm a <a href="https://en.wikipedia.org/wiki/Potato">potato</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
