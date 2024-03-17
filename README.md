@@ -6,7 +6,7 @@
 - 📚 Computer Science student at **[BSI University](https://bsi.id/)**
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/rangga-ryantico19/)
 - 💬 Ask me about **any technology**.
-- ⚡ Fun fact: I'm a <a href="https://en.wikipedia.org/wiki/Potato">potato</a>
+- ⚡ Fun fact: I'm a <a href="https://id.wikipedia.org/wiki/Kucing">CAT</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
