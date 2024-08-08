@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rangga Ryantico <img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img></h1>
 <h3 align="center">A passionate website developer from Indonesia</h3>
 
-- 📚 Computer Science student at **[BSI University](https://bsi.id/)**
+- 📚 Informatics student at **[BSI University](https://bsi.id/)**
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/rangga-ryantico19/)
 - 💬 Ask me about **any technology**.
 - ⚡ Fun fact: I'm a <a href="https://id.wikipedia.org/wiki/Kucing">CAT</a>
